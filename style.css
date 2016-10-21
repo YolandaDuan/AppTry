@@ -1,0 +1,21 @@
+img{
+	border-radius: 80px;
+	max-width: 30%;
+	height: auto;
+	border: 3px solid #ddd;
+}
+
+h1{
+	/* use the Denk One font if it’s available, and if it’s not available,
+		use the default sans serif font installed on the user’s system. */
+	font-family: 'Montserrat', sans-serif;
+	font-size: xx-large;
+}
+
+h2{
+	font-size: x-large;
+}
+
+body{
+	font-size: 100%;
+}
