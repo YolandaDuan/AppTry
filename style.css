@@ -18,4 +18,13 @@ h2{
 
 body{
 	font-size: 100%;
+	background: #f9e933;
+}
+
+header{
+	background: white;
+}
+
+main{
+	background: white;
 }
