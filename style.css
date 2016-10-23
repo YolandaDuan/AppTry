@@ -27,6 +27,7 @@ h1{
 		use the default sans serif font installed on the user’s system. */
 	font-family: 'Montserrat', sans-serif;
 	font-size: xx-large;
+	color: pink;
 }
 
 h2{
