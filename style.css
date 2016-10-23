@@ -42,6 +42,19 @@ main{
 	width: 385px;
 }
 
+.commentsContainer{
+	background: white;
+	margin: 0;
+}
+
+.comments p:nth-child(even){
+	background: lavender;
+}
+
+.comments p:nth-child(odd){
+	background: gainsboro;
+}
+
 footer{
 	overflow: auto;
 }
